@@ -1,1 +1,3 @@
-aku adalah sang pengangguran
+a,ayam
+b,baabi
+c,cacing
